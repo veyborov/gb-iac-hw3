@@ -15,7 +15,7 @@ variable "cluster" {
 }
 
 variable "credentials" {
-  default = "../../gc_key_new.json"
+  default = "gc_key_new.json"
 }
 
 variable "kubernetes_min_ver" {

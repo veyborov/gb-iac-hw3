@@ -3,7 +3,7 @@ terraform {
   backend "remote" {
     organization = "gb-iac-test"
     workspaces {
-      name = "gb-iac-hw2-test-cluster"
+      name = "gb-iac-hw3-test-cluster"
     }
   }
 }
