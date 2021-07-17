@@ -11,7 +11,7 @@ variable "zone" {
 }
 
 variable "cluster" {
-  default = "gb-iac-hw3-cluster"
+  default = "gb-iaac-hw3-cluster"
 }
 
 variable "credentials" {
@@ -31,5 +31,5 @@ variable "machine_type" {
 }
 
 variable "app_name" {
-  default = "gb-iac-hw3-test-app"
+  default = "gb-iaac-hw3-test-app"
 }
